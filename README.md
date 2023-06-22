@@ -5,8 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome+To+My+Github;You+Know+Who+Is+Handsome;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
-<h1 align="center">★ You are crazy  ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
-<h1 align="center"> <img src="https://chart.apis.google.com/chart?cht=qr&choe=UTF-8&chs=250x250&chld=L&chl=github.com%2FBasari-ID" alt="QR Code Generator"><a href="https://dnschecker.org" rel="nofollow" border="0">    QR Code My Github Profil </a>
+<h1 align="center">🇲🇨 indonesia 🇲🇨 <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
+<h1 align="center"> <img src="https://chart.apis.google.com/chart?cht=qr&choe=UTF-8&chs=250x250&chld=L&chl=github.com%2FBasari-ID" alt="QR Code Generator"><a href="https://dnschecker.org" rel="nofollow" border="0">    QR Code My Github </a>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/Al-Vino/Al-Vino/main/giphy%20(1).webp"
 <h1 align="center">★ STATISTICS ★</i></b></h3>
